@@ -1,18 +1,12 @@
 # 3D printed 2 fingers parallel moving gripper, fully actuated by one dynamixel servo.
 
 This repository can be applied to control the 3D printed 2 fingers parallel moving gripper.
-
 Including:
-
-1. Calibaration.py: Calibarate your gripper every time when you try to put on the external device to avoid damage.\n
-
-2. Robotic_Servos.py: This class can used to control the servo, change some parameters in the servo, read the real-time status of the servo, etc.
-
-3. dynamixel_sdk： Communication Protocal
-
-4. Grasp_locater： Advanced application for intelligent grasping
-
-5. calibaration.csv: Calibaration file
+- Calibaration.py: Calibarate your gripper every time when you try to put on the external device to avoid damage.\n
+- Robotic_Servos.py: This class can used to control the servo, change some parameters in the servo, read the real-time status of the servo, etc.
+- dynamixel_sdk： Communication Protocal
+- Grasp_locater： Advanced application for intelligent grasping
+- calibaration.csv: Calibaration file
 
 
 
