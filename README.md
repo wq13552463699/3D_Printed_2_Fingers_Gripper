@@ -1,4 +1,4 @@
-#UCD_hand python API version:2
+# 3D printed 2 fingers parallel moving gripper, fully actuated by one dynamixel servo.
 
 This project can be applied to control the Dynamixel servo MX28 by python.
 The communication protocal is Dynamixel SDK, link: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/
