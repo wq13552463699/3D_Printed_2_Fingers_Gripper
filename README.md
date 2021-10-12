@@ -8,7 +8,10 @@ Information and data about the Dynamixel MX28 are checked from Dynamixel e-mannu
 Installation:
 The installation of this project is simple, you can copy whole of this project folder to local. All required files are included in this folders,
 so users don't have to configurate dynamixel sdk themselves. 
-To install the dependency python libraries: pip install -r requirements.txt
+To install the dependency python libraries: 
+```bash
+pip install -r requirements.txt
+```
 
 Hardware Setup:
 Coming soon...
