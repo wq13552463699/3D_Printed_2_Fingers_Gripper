@@ -29,4 +29,7 @@ For this version, we don't have the command to use the servo in the command line
 	"Robotic_Servos.py". Actually, 'UCD_Hand.py' and "Calibaration.py" are all built based on the "Robotic_Servos.py". So, if
 	you want to don some advanced operations or do some customization, please go to "Robotic_Servos.py".
 	
-README version:1
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
