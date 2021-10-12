@@ -22,6 +22,8 @@ Please check the CAD files before printing, there might be some version collisio
 - Assemble
 <img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/explosion%20view2.png" width="633" >
 <img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/explosion%20view.png" width="633" >
+- Connect UR5(E) robot
+<img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/gripper%2Brobot.png" width="633" >
 
 
 ## Implementation tutorial
