@@ -1,4 +1,4 @@
-UCD_hand python API version:2
+#UCD_hand python API version:2
 
 This project can be applied to control the Dynamixel servo MX28 by python.
 The communication protocal is Dynamixel SDK, link: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/
