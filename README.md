@@ -4,7 +4,7 @@ This repository can be applied to control the 3D printed 2 fingers parallel movi
 
 Including:
 
-1. Calibaration.py: Calibarate your gripper every time when you try to put on the external device to avoid damage.
+1. Calibaration.py: Calibarate your gripper every time when you try to put on the external device to avoid damage.\n
 
 2. Robotic_Servos.py: This class can used to control the servo, change some parameters in the servo, read the real-time status of the servo, etc.
 
