@@ -18,6 +18,9 @@ pip install -r requirements.txt
 ```
 
 ## Hardware Setup:
+Please check the CAD files before printing, there might be some version collision. If you have any questions please open an issue or contact qiang.wang@ucdconnect.ie
+- Assemble
+<img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/explosion%20view2.png" width="633" >
 <img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/explosion%20view.png" width="633" >
 
 
