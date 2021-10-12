@@ -18,7 +18,8 @@ pip install -r requirements.txt
 ```
 
 ## Hardware Setup:
-Coming soon...
+<img src="https://raw.githubusercontent.com/Microsoft/MMdnn/master/docs/supported.jpg" width="633" >
+
 
 ## Implementation tutorial
 For this version, we don't have the command to use the servo in the command line, you can use the API purely by python IDE.
