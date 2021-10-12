@@ -9,7 +9,6 @@ Including:
 - calibaration.csv: Calibaration file
 
 
-
 ## Installation
 The installation of this project is simple, you can copy whole of this project folder to local. All required files are included in this folders,
 so users don't have to configurate dynamixel sdk themselves. 
