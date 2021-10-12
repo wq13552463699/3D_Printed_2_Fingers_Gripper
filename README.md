@@ -28,6 +28,10 @@ Please check the CAD files before printing, there might be some version collisio
 - Connect UR5(E) robot
 <img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/gripper%2Brobot.png" width="633" >
 
+- Printed result
+<img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/Real1.jpg" width="633" >
+
+
 
 ## Implementation tutorial
 For this version, we don't have the command to use the servo in the command line, you can use the API purely by python IDE.
