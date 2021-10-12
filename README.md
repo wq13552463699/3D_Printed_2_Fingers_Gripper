@@ -5,7 +5,7 @@ The communication protocal is Dynamixel SDK, link: https://emanual.robotis.com/d
 Information and data about the Dynamixel MX28 are checked from Dynamixel e-mannual, link: https://emanual.robotis.com/docs/en/dxl/mx/mx-28/
 
 
-# Installation
+## Installation
 The installation of this project is simple, you can copy whole of this project folder to local. All required files are included in this folders,
 so users don't have to configurate dynamixel sdk themselves. 
 To install the dependency python libraries: 
@@ -13,10 +13,10 @@ To install the dependency python libraries:
 pip install -r requirements.txt
 ```
 
-# Hardware Setup:
+## Hardware Setup:
 Coming soon...
 
-# Implementation tutorial
+## Implementation tutorial
 For this version, we don't have the command to use the servo in the command line, you can use the API purely by python IDE.
 1. Calibration:
 	The purpose of calibaration is to find the position of the open limit and the close limit(two positions that tips can get)
