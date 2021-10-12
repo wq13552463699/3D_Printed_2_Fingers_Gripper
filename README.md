@@ -31,6 +31,8 @@ Please check the CAD files before printing, there might be some version collisio
 - Printed product
 <img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/Real1.jpg" width="633" >
 
+For more, please see CAD/Pictures
+
 
 
 ## Implementation tutorial
