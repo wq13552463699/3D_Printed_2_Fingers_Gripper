@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ## Hardware Setup:
-<img src="https://raw.githubusercontent.com/Microsoft/MMdnn/master/docs/supported.jpg" width="633" >
+<img src="https://github.com/wq13552463699/3D_Printed_2_Fingers_Gripper/blob/main/CAD/Pictures/explosion%20view.png" width="633" >
 
 
 ## Implementation tutorial
