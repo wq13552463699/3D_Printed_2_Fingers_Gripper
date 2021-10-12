@@ -8,6 +8,8 @@ Including:
 - Grasp_locater： Advanced application for intelligent grasping
 - calibaration.csv: Calibaration file
 
+Author: Qiang Wang
+
 
 ## Installation
 The installation of this project is simple, you can copy whole of this project folder to local. All required files are included in this folders,
